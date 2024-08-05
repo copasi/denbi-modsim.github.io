@@ -1,4 +1,4 @@
-## Constraint-based modeling and design of metabolic networks with CellNetAnalyzer and CNApy
+## de.NBI workshop: Constraint-based modeling and design of metabolic networks with CellNetAnalyzer and CNApy
 
 #### Educators: 
 Steffen Klamt, Axel von Kamp, Pavlos Bekiaris

@@ -3,36 +3,24 @@
 
 This two-day virtual workshop, provides an in-depth exploration of kinetic modelling and simulation using COPASI. 
 
-On Day 1, participants will be introduced to the fundamentals of kinetic modelling and learn about simulation and steady state calculations in COPASI. 
+On day 1, participants will be introduced to the fundamentals of kinetic modelling and learn about simulation and steady state calculations in COPASI. 
 
 Day 2 focuses on parameter estimation and scripting, equipping attendees with the necessary skills to optimize model parameters and automate tasks using python scripting. 
-
 
 #### Educators: 
 Frank T. Bergmann, Ursula Kummer
 
 #### Date:
-19-NOV-2024 9:00 am, 20-NOV-2024 12:00pm (CET / UTC +1)
+19-NOV-2024 9am-12p, 20-NOV-2024 9a-12p (CET / UTC +1)
 
 #### Location:
 Online Conferencing (Link will be provided to Registered and confirmed participants)
 
-### Day1:
-* Introduction to kinetic modelling 
-* Simulation & Steady State calculations in COPASI
+#### Requirements:
+Participants should have the latest version of [COPASI](https://copasi.org/Download/) installed.
 
-### Day2: 
-* Parameter Estimation
-* Scripting
 
-#### Educators: 
-Frank T. Bergmann, Ursula Kummer
+#### Registration:
+[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSeEgdDiZVQsfwN05RBXxCqLgJWpCQDyVYdKxZp3v799wQV0dA/viewform?usp=sf_link)
 
-### Day1:
-* Introduction to kinetic modelling 
-* Simulation & Steady State calculations in COPASI
-
-### Day2: 
-* Parameter Estimation
-* Scripting
-
+This workshop is part of the de.NBI SysBio Workshop series 2024. [more information](../)
