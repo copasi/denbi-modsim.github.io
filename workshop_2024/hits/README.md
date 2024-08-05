@@ -35,3 +35,5 @@ source tool for uploading, organizing, sharing and publishing scientific researc
     -  Storage and exchange of data and models according to the FAIR principles
     -  Modeling specific functionalities in FAIRDOMHub / FAIRDOM-SEEK
  - Demo of programmatic access
+
+This workshop is part of the de.NBI SysBio Workshop series 2024. [more information](../)
