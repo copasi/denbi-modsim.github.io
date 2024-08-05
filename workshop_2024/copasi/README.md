@@ -12,7 +12,7 @@ Day 2 focuses on parameter estimation and scripting, equipping attendees with th
 Frank T. Bergmann, Ursula Kummer
 
 #### Date:
-19-NOV-2024 9:00 am, 20-NOV-2024 12:00pm (CEST / UTC +2)
+19-NOV-2024 9:00 am, 20-NOV-2024 12:00pm (CET / UTC +1)
 
 #### Location:
 Online Conferencing (Link will be provided to Registered and confirmed participants)

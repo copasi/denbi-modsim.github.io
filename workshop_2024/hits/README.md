@@ -4,9 +4,9 @@
 Xiaoming Hu, Maja Rey, Andreas Weidemann, Ulrike Wittig
 
 #### Date:
-**SABIO-RK:** 25-NOV-2024 2:00 pm - 5:00pm (CEST / UTC +2)
+**SABIO-RK:** 25-NOV-2024 2:00 pm - 5:00pm (CET / UTC +1)
 
-**FAIRDOM-SEEK:** 26-NOV-2024 2:00 pm - 6:00pm (CEST / UTC +2)
+**FAIRDOM-SEEK:** 26-NOV-2024 2:00 pm - 6:00pm (CET / UTC +1)
 
 #### Location:
 Online Conferencing (Link will be provided to Registered and confirmed participants)
