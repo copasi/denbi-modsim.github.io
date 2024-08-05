@@ -2,6 +2,7 @@
 
 #### Educators: 
 Steffen Klamt, Axel von Kamp, Pavlos Bekiaris 
+
 (Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg, Germany)
 
 #### Date:
