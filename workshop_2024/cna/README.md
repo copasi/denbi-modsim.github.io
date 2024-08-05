@@ -5,6 +5,7 @@ Steffen Klamt, Axel von Kamp, Pavlos Bekiaris
 
 #### Date:
 Day 1:  5-Nov-2024 2:00 pm - 6:00 pm (CET / UTC +1)
+
 Day 2:  6-Nov-2024 2:00 pm - 6:00 pm (CET / UTC +1)
 
 #### Location:
