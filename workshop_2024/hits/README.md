@@ -36,4 +36,7 @@ source tool for uploading, organizing, sharing and publishing scientific researc
     -  Modeling specific functionalities in FAIRDOMHub / FAIRDOM-SEEK
  - Demo of programmatic access
 
+#### Registration
+[Registration](https://docs.google.com/forms/d/1vupBcgBWe02_OOYCDzKQfNuBDtl2_Rkz-qam8JMpqPM)
+
 This workshop is part of the de.NBI SysBio Workshop series 2024. [more information](../)
