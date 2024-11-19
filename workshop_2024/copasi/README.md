@@ -19,6 +19,8 @@ Online Conferencing (Link will be provided to Registered and confirmed participa
 #### Requirements:
 Participants should have the latest version of [COPASI](https://copasi.org/Download/) installed.
 
+For the parameter estimation session we will need the following [data file](./2024-11-19_-_Copasi_PE.zip).
+
 
 #### Registration:
 [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSeEgdDiZVQsfwN05RBXxCqLgJWpCQDyVYdKxZp3v799wQV0dA/viewform?usp=sf_link)
