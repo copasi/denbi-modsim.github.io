@@ -19,7 +19,16 @@ Online Conferencing (Link will be provided to Registered and confirmed participa
 #### Requirements:
 Participants should have the latest version of [COPASI](https://copasi.org/Download/) installed.
 
-For the parameter estimation session we will need the following [data file](./2024-11-19_-_Copasi_PE.zip).
+
+### Materials: 
+
+Here the presentations: 
+
+* Day 1: Overview Copasi / simulation / steadystate / MCA / parameter scan [slides](./denbi_sysbio_block1-4.pdf)
+* Day 2: parameter estimation / scripting overview [slides](./2024-11-18_-_ParameterEstimation.pdf), [data set](./2024-11-19_-_Copasi_PE.zip).
+
+More information on scripting can be found on the [basico website](https://basico.readthedocs.io/en/latest/). Here a link to the [COLAB Notebook](https://colab.research.google.com/drive/1FVA3cRayFj9i1BObaFqr8a2YIS7Aq5j0?usp=sharing) that we used for the summary. 
+
 
 
 #### Registration:
