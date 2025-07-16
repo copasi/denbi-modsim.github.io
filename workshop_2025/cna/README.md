@@ -33,4 +33,4 @@ Hands-on exercises with CNA and CNApy: the participants will practice the use of
 ### Registration
 [Registration](https://docs.google.com/forms/d/e/1FAIpQLSexoWIrjLPNudaq9MXMHkc4NuxgwXDMmoiiiEj-9seX0Kw1DQ/viewform?vc=0&c=0&w=1&flr=0)
 
-This workshop is part of the de.NBI SysBio Workshop series 2024. [more information](../)
+This workshop is part of the de.NBI SysBio Workshop series 2025. [more information](../)
