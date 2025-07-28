@@ -29,7 +29,9 @@ Participants should have the latest version of [COPASI](https://copasi.org/Downl
 This workshop is intended for experienced modellers with a solid grasp of COPASI. It builds on foundational skills and explores advanced strategies for analyzing complex biochemical models.
 
 #### Registration:
-[Registration Form](#)
+Registration is free but required and limited to 30 participants. 
+
+[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScU4ZVu6X-AVgHvtQCnf0BopJmFrP6q31G9J9HQpG2-YKoW1w/viewform)
 
 
 ### How to get to the workshop
