@@ -32,6 +32,5 @@ More information on scripting can be found on the [basico website](https://basic
 
 
 #### Registration:
-[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSeEgdDiZVQsfwN05RBXxCqLgJWpCQDyVYdKxZp3v799wQV0dA/viewform?usp=sf_link)
 
-This workshop is part of the de.NBI SysBio Workshop series 2024. [more information](../)
+This workshop is part of the de.NBI SysBio Workshop series 2025. [more information](../)
