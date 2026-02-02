@@ -12,9 +12,11 @@ Frank T. Bergmann (Heidelberg University)
 Feb 4, 2026, 9:05a - 10:30p (NZDT / UTC+12)
 
 #### Location: 
-Room 405.462, [The Faculty of Engineering (Building 401)](https://maps.app.goo.gl/7uEm2QyhbxhLPE2Q9) Atrium (Room 418) 20 Symonds Street, Auckland Central.
+Hybrid: 
 
-and Zoom (will be displayed here in time for the event)
+Room 401.401, [The Faculty of Engineering (Building 401)](https://maps.app.goo.gl/7uEm2QyhbxhLPE2Q9) 20 Symonds Street, Auckland Central.
+
+and Zoom (to be sent to registrants)
 
 #### Registration
-This tutorial is part of HARMONY 2026, please register for Harmony to addend. For virtual attendees there is no fee, but you do need to [register](https://forms.gle/GQFMkiSxmx1yiwzd6) until Feb 2nd. 
+This tutorial is part of HARMONY 2026, if you like to attend, please [register](https://docs.google.com/forms/d/e/1FAIpQLScztXct7fSdoLm8BWQBNIOcdAiiCaXfnETCV3a3-XQaJ6bE-w/viewform?usp=publish-editor) so that I can send you the zoom link. 
