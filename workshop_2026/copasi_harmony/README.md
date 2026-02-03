@@ -9,7 +9,7 @@ The workshop is suitable for beginners who want a guided introduction to COPASI 
 Frank T. Bergmann (Heidelberg University)
 
 #### Date:
-Feb 4, 2026, 9:05a - 10:30a (NZDT / UTC+12)
+Feb 4, 2026, 9:05a - 10:30a (NZDT / UTC+13)
 
 #### Location: 
 Hybrid: 
