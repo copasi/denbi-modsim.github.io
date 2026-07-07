@@ -16,3 +16,7 @@ Zoom (to be sent to registrants)
 
 #### Registration
 If you like to attend, please [register](https://docs.google.com/forms/d/e/1FAIpQLSeAAYWUC9A0XkGWIm3uCEKLfjM8-fL1XRyR76ZVjVwcxhzS3Q/viewform?usp=publish-editor) so that I can send you the zoom link. 
+
+
+#### Additional Files
+Here a copy of [BioModel 64](./BIOMD0000000064.xml), to be loaded into COPASI.
