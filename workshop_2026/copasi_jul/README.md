@@ -19,4 +19,4 @@ If you like to attend, please [register](https://docs.google.com/forms/d/e/1FAIp
 
 
 #### Additional Files
-Here a copy of [BioModel 64](./BIOMD0000000064.xml), to be loaded into COPASI.
+Here a copy of <a href="./BIOMD0000000064.xml" download>BioModel 64</a>, to be loaded into COPASI.
