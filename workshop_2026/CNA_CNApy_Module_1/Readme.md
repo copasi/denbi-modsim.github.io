@@ -12,15 +12,15 @@ Axel von Kamp, Pavlos Bekiaris, Steffen Klamt
 Online conferencing (link will be provided to registered and confirmed participants).
 
 ### Abstract
-This course introduces principles and key methods of constraint-based modeling of metabolic networks coupled with live demonstrations and hands-on exercises with the MATLAB package CellNetAnalyzer (CNA)](https://www2.mpi-magdeburg.mpg.de/projects/cna/cna.html) and its Python-variant [CNApy](https://github.com/cnapy-org/CNApy).
+This course introduces principles and key methods of constraint-based modeling of metabolic networks coupled with live demonstrations and hands-on exercises with the MATLAB package [CellNetAnalyzer (CNA)](https://www2.mpi-magdeburg.mpg.de/projects/cna/cna.html) and its Python-variant [CNApy](https://github.com/cnapy-org/CNApy).
  
-• Fundamentals of constraint-based modeling of metabolic networks
-• Introduction to CellNetAnalyzer and CNApy
-• Metabolic flux (balance) analysis
-• Flux Variability analysis
-• Metabolic pathway analysis
-• Live demos and hands-on exercises with CNA and CNApy: the participants will practice the use of CNA and/or CNApy using small example and realistic metabolic models
-• Q&A session 
+- Fundamentals of constraint-based modeling of metabolic networks
+- Introduction to CellNetAnalyzer and CNApy
+- Metabolic flux (balance) analysis
+- Flux Variability analysis
+- Metabolic pathway analysis
+- Live demos and hands-on exercises with CNA and CNApy: the participants will practice the use of CNA and/or CNApy using small example and realistic metabolic models
+- Q&A session 
  
 Participants interested in advanced methods of constraint-based modeling and related functionalities in CNA/CNApy may also attend [Module 2](https://www.denbi.de/training-courses-2026/2117-constraint-based-modeling-of-metabolic-networks-with-cellnetanalyzer-and-cnapy-module-2-advanced-topics) of this course (which will take place two weeks later).
 
